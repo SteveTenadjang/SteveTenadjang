@@ -29,7 +29,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <img src="https://img.icons8.com/color/26/000000/vue-js.png"/>
-<img src="https://img.icons8.com/fluent/66/000000/laravel.png"/>
+<img src="https://img.icons8.com/fluent/26/000000/laravel.png"/>
 
 <br />
 <br />
