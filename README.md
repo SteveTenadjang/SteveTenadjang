@@ -30,7 +30,6 @@
 
 [<img src="https://img.icons8.com/color/26/000000/vue-js.png"/>]
 [<img src="https://img.icons8.com/fluent/66/000000/laravel.png"/>]
-[<img align="left" alt="Csharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/Csharp.png" />]
 
 <br />
 <br />
