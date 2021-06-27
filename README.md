@@ -1,7 +1,7 @@
 ### Hi there, I'm TENADJANG STEVE - aka TENA$ STEVE 👋
 
 
-## I'm a Young, Energic, and Dterminded Developer!!
+## I'm a Young, Energic, and Determinded Developer!!
 
 - 🔥 I’m currently learning everything 😅
 - 👯 I’m looking to collaborate with other content creators
@@ -37,3 +37,6 @@
 
 
 [linkedin]:[ www.linkedin.com/in/SteveTenadjang]
+
+--
+<img width="500px" alt="cv" src="./img/cv1.jpg"/>
