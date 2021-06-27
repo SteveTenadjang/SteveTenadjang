@@ -38,5 +38,6 @@
 
 [linkedin]:[ www.linkedin.com/in/SteveTenadjang]
 
---
+--- 
+
 <img align="center" width="600px" alt="cv" src="./img/cv1.jpg"/>
