@@ -40,4 +40,4 @@
 
 --- 
 
-<img align="center" width="600px" alt="cv" src="./img/cv1.jpg" style="margin-left:10%;"/>
+<img align="centre" width="700px" alt="cv" src="./img/cv1.jpg" />
