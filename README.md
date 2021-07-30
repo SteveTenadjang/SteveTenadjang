@@ -10,9 +10,10 @@
 
 ### Connect with me:
 
-<img align="left" alt="SteveTenadjang | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />linkedin
+<img align="left" alt="SteveTenadjang | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><a href="www.linkedin.com/in/SteveTenadjang">linkedin</a>
 
-<img align="left" alt="SteveTenadjang | LinkedIn" width="22px" src="https://github.com/STEVETENAS/StaticSite/blob/master/assets/logo.png?raw=true" />mysite
+<img align="left" alt="SteveTenadjang | LinkedIn" width="22px" src="https://github.com/STEVETENAS/StaticSite/blob/master/assets/logo.png?raw=true" /><a href="https://stevetenas.github.io/StaticSite/
+"> mysite</a>
 
 <br />
 
@@ -38,6 +39,8 @@
 
 
 [linkedin]:[ www.linkedin.com/in/SteveTenadjang]
+<br />
+[mysite]:[https://stevetenas.github.io/StaticSite/]
 
 --- 
 
