@@ -1,6 +1,5 @@
 ### Hi there, I'm TENADJANG STEVE - aka TENA$ STEVE 👋
 
-
 ## I'm a Young, Energic, and Determinded Developer!!
 
 - 🔥 I’m currently learning everything 😅
@@ -12,6 +11,8 @@
 ### Connect with me:
 
 <img align="left" alt="SteveTenadjang | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />linkedin
+
+<img align="left" alt="SteveTenadjang | LinkedIn" width="22px" src="https://github.com/STEVETENAS/StaticSite/blob/master/assets/logo.png?raw=true" />mysite
 
 <br />
 
@@ -37,6 +38,7 @@
 
 
 [linkedin]:[ www.linkedin.com/in/SteveTenadjang]
+[mysite]:[https://stevetenas.github.io/StaticSite/]
 
 --- 
 
