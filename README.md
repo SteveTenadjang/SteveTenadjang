@@ -38,7 +38,6 @@
 
 
 [linkedin]:[ www.linkedin.com/in/SteveTenadjang]
-[mysite]:[https://stevetenas.github.io/StaticSite/]
 
 --- 
 
