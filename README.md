@@ -42,4 +42,4 @@
 
 --- 
 
-<img align="centre" width="700px" alt="cv" src="./img/cv1.jpg" />
+<img align="centre" width="700px" alt="cv" src="./img/SteveTenadjangCV-img.jpeg" />
