@@ -1,45 +1,65 @@
-### Hi there, I'm TENADJANG STEVE - aka TENA$ STEVE 👋
+# Fullstack Developer
 
-## I'm a Young, Energic, and Determinded Developer!!
+**Email**: stevetenadjang@gmail.com  
+**Location**: Ottawa, ON
 
-- 🔥 I’m currently learning everything 😅
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Hobbies : Basketball 🏀⛹‍♂, Music(Rap game) 🧊🎵
+## Summary
 
+Experienced Fullstack Developer with over 4 years of expertise in crafting high-quality software solutions. Holding a Master’s degree from 3IL Limoges, France, I specialize in backend development with Laravel and .NET. My skills encompass all stages of the software lifecycle, including planning, coding, testing, and deployment. I am proficient in writing robust test cases with Pest, implementing CI/CD workflows with GitHub Actions, and optimizing server configurations using Docker and Nginx.
 
-### Connect with me:
+Additionally, I bring frontend expertise in Next.js and Vue.js, ensuring seamless integration with backend systems and delivering engaging, user-centric interfaces. Fully bilingual in French and English, I excel in collaborative environments and have a proactive problem-solving mindset.
 
-<img align="left" alt="SteveTenadjang | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><a href="www.linkedin.com/in/SteveTenadjang" target="_blank">linkedin</a>
+## Skills
 
-<img align="left" alt="SteveTenadjang | LinkedIn" width="22px" src="https://github.com/STEVETENAS/StaticSite/blob/master/assets/logo.png?raw=true" /><a href="https://stevetenas.github.io/Static-Portfolio-page/" target="_blank"> mysite</a>
-<br />
+- **Backend Technologies**: Laravel, .NET Core, NopCommerce, RabbitMQ
+- **Frontend Technologies**: Next.js, React.js, Vue.js, Blazor
+- **Database**: MySQL, PostgreSQL, SQL Server, MongoDB
+- **Version Control**: Git, GitHub, GitLab
+- **CI/CD**: GitHub Actions, GitLab CI/CD
+- **Containerization**: Docker
+- **Web Servers**: Nginx
+- **Cloud Platforms**: OVHcloud, IONOS, Azure DevOps
+- **Project Management**: Scrum
+- **Testing**: Pest (PHP), Unit Testing
 
-### Languages and Tools:
+## Career Realizations
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+- **[jobathome.fr](https://jobathome.fr)**  
+  Technologies: Next.js 14, Laravel 10, MySQL, Docker, GitHub Actions, Nginx
+  
+- **[expert.jobathome.fr](https://expert.jobathome.fr)**  
+  Technologies: Next.js 14, Laravel 10, MySQL, Docker, GitHub Actions, Nginx
+  
+- **[sustainease.fr](https://sustainease.fr)**  
+  Technologies: Next.js, Laravel, PostgreSQL, Docker, GitHub Actions, Nginx
+  
+- **[residat.com](https://residat.com)**  
+  Technologies: Laravel, MySQL
+  
+- **[hopna-agency.com](https://hopna-agency.com)**  
+  Technologies: Laravel, MySQL
+  
+- **[iziway.cm](https://iziway.cm)**  
+  Technologies: .NET Core, Blazor, Docker, Azure DevOps
+  
+- **[instant-girls.com](https://instant-girls.com)**  
+  Technologies: Laravel, MySQL
+  
+- **[yepado.io](https://yepado.io)**  
+  Technologies: Laravel, MySQL
 
-<img align="left" width="26px" alt="Vuejs" src="https://img.icons8.com/color/26/000000/vue-js.png"/>
-<img align="left" width="26px" alt="Laravel 8" src="https://img.icons8.com/fluent/26/000000/laravel.png"/>
+## Education
 
-<br />
-<br />
+- **Master's in Digital and Data Solutions Management**  
+  *École d’ingénieurs en informatique*, Limoges, France (Sep. 2022 - Aug. 2024)
+  
+- **Bachelor's in Web and Mobile Development**  
+  *École d’ingénieurs en informatique*, Limoges, France (Sep. 2021 - Sep. 2022)
+  
+- **DEC in Programming and Mobile Applications**  
+  *Collège Communautaire du Nouveau-Brunswick*, Canada (Sep. 2019 - Sep. 2021)
 
----
+## Languages
 
-
-[linkedin]:[ www.linkedin.com/in/SteveTenadjang]
-<br />
-[mysite]:[https://stevetenas.github.io/Static-Portfolio-page/]
-
---- 
-
-<img align="centre" width="700px" alt="cv" src="./img/StevetenadjangCV.jpg" />
+- **English**: Native
+- **French**: Fluent
